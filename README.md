@@ -1,5 +1,5 @@
 # BergenFlood3D
-
+<img src = "Capture.PNG"/>
 This page was made with the <a href="http://www.qgis.org/" target="_blank">QGIS </a> <a href="https://github.com/minorua/Qgis2threejs" target="_blank">Qgis2threejs</a> plugin, <a href="https://kartverket.no/data/" target="_blank">Kartverket </a> data 
 and uses the following libraries:
   <ul>
