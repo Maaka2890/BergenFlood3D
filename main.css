@@ -1,0 +1,27 @@
+html, body {
+      font-family: sans-serif;
+      width: 100%;
+      background-color: white;
+      color: black;
+    }
+#map {
+      height: 750px;
+      width: 100%;
+    }
+    .map-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            font-family: sans-serif;
+            overflow: auto;
+            border-radius: 3px;
+        }
+    #features {
+    		padding: 10px;
+            top: 0;
+            height: 100px;
+            margin-top: 250px;
+            width: 200px;
+            text-align:center;
+        }
